@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/reveal-flashcards/static/js/runtime~main.537402e0.js"
   },
   {
-    "revision": "1963f3ee95c741e7ce3a",
-    "url": "/reveal-flashcards/static/js/main.1963f3ee.chunk.js"
+    "revision": "6ba35c320e573cb5e902",
+    "url": "/reveal-flashcards/static/js/main.6ba35c32.chunk.js"
   },
   {
     "revision": "c898cbc39a58d804b6ec",
     "url": "/reveal-flashcards/static/js/1.c898cbc3.chunk.js"
   },
   {
-    "revision": "1963f3ee95c741e7ce3a",
+    "revision": "6ba35c320e573cb5e902",
     "url": "/reveal-flashcards/static/css/main.a83f9dee.chunk.css"
   },
   {
-    "revision": "c6acb9ff46bebb1e00ad74366ef1eaf0",
+    "revision": "9207fa94d2892c60bf2ddae1c471a268",
     "url": "/reveal-flashcards/index.html"
   }
 ];
