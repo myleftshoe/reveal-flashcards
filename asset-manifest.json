@@ -1,13 +1,13 @@
 {
-  "main.css": "/reveal-flashcards/static/css/main.d7fedb2b.chunk.css",
-  "main.js": "/reveal-flashcards/static/js/main.9ac38bf5.chunk.js",
-  "main.js.map": "/reveal-flashcards/static/js/main.9ac38bf5.chunk.js.map",
+  "main.css": "/reveal-flashcards/static/css/main.5727d29b.chunk.css",
+  "main.js": "/reveal-flashcards/static/js/main.77ec778c.chunk.js",
+  "main.js.map": "/reveal-flashcards/static/js/main.77ec778c.chunk.js.map",
   "static/js/1.f67cc30f.chunk.js": "/reveal-flashcards/static/js/1.f67cc30f.chunk.js",
   "static/js/1.f67cc30f.chunk.js.map": "/reveal-flashcards/static/js/1.f67cc30f.chunk.js.map",
   "runtime~main.js": "/reveal-flashcards/static/js/runtime~main.537402e0.js",
   "runtime~main.js.map": "/reveal-flashcards/static/js/runtime~main.537402e0.js.map",
-  "static/css/main.d7fedb2b.chunk.css.map": "/reveal-flashcards/static/css/main.d7fedb2b.chunk.css.map",
+  "static/css/main.5727d29b.chunk.css.map": "/reveal-flashcards/static/css/main.5727d29b.chunk.css.map",
   "index.html": "/reveal-flashcards/index.html",
-  "precache-manifest.260e2dd53bd948b288aa0b226ae956fd.js": "/reveal-flashcards/precache-manifest.260e2dd53bd948b288aa0b226ae956fd.js",
+  "precache-manifest.e7e88fc418d49708e4e92ee5d4f5fc2b.js": "/reveal-flashcards/precache-manifest.e7e88fc418d49708e4e92ee5d4f5fc2b.js",
   "service-worker.js": "/reveal-flashcards/service-worker.js"
 }
